@@ -1,0 +1,19 @@
+{
+    "name": "pearl/contact-form",
+    "description": "This is a package to contact your admin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shahriar Shaon",
+            "email": "shahriarshaon1993@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Pearl\\Contact": "src/"
+        }
+    }
+}
