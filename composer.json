@@ -15,5 +15,12 @@
         "psr-4": {
             "BoomPearl\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "BoomPearl\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
