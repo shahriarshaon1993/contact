@@ -1,7 +1,4 @@
-## Laravel Contact Package
-This package which is contact with your client.
-## Packages Used
+# Contact us form package
 
-- Install ``
+## This will send email to admin and save contact query in database
 
-[MIT license](https://opensource.org/licenses/MIT).
