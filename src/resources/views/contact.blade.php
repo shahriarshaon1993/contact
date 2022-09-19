@@ -20,7 +20,7 @@
         .form-wrapper {
             width: 720px;
             border-radius: 15px;
-            background: #FFFFFF;
+            background: palegreen;
             box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
         }
     </style>
