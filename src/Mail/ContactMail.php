@@ -1,6 +1,6 @@
 <?php
 
-namespace Pearl\Contact\Mail;
+namespace BoomPearl\Contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;

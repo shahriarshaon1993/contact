@@ -1,12 +1,12 @@
 <?php
 
-namespace Pearl\Contact\Http\Controllers;
+namespace BoomPearl\Contact\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
-use Pearl\Contact\Mail\ContactMail;
-use Pearl\Contact\Models\Contact;
+use BoomPearl\Contact\Mail\ContactMail;
+use BoomPearl\Contact\Models\Contact;
 
 class ContactController extends Controller
 {

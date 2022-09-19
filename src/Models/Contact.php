@@ -1,6 +1,6 @@
 <?php
 
-namespace Pearl\Contact\Models;
+namespace BoomPearl\Contact\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

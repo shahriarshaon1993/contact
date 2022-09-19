@@ -1,6 +1,6 @@
 <?php
 
-namespace Pearl\Contact;
+namespace BoomPearl\Contact;
 
 use Illuminate\Support\ServiceProvider;
 
